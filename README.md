@@ -1,3 +1,3 @@
 # Portpolio
 
-ttps://negisushant.github.io/Portpolio/
+https://negisushant.github.io/Portpolio/
